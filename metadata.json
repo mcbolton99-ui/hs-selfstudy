@@ -1,0 +1,6 @@
+{
+  "name": "한서고등학교 자습실 좌석 예약 시스템",
+  "description": "한서고등학교 학생들을 위한 교내 자습실 좌석 예약 및 이용 현황 관리 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
