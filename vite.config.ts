@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/hs-selfstudy/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
